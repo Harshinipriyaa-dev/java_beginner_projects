@@ -1,1 +1,1 @@
-                                                                                                          MINI PASSWORD VAULT
+MINI PASSWORD VAULT
