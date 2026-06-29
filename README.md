@@ -1,4 +1,4 @@
-```markdown
+
 # Java Beginner Projects ☕
 
 This repository contains my early object-oriented programming (OOP) projects in Java. It highlights my understanding of classes, file handling, and working with Java Streams.
